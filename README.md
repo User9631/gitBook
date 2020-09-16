@@ -1,4 +1,4 @@
-# install.sh
+# install
 
 ## Getting Super Powers
 
