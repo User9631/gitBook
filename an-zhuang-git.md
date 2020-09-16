@@ -1,4 +1,4 @@
-# 安装git
+# install
 
 Windows
 
